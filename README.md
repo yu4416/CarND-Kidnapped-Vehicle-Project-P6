@@ -1,7 +1,7 @@
 
 [//]: # (Image References)
 
-[image1]: /home/workspace/CarND-Kidnapped-Vehicle-Project/result/result.JPG "Result"
+[image1]: /result/result.JPG "Result"
 
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
